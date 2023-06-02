@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/makem/Documents/GitHub/ARProject/Content/Stefano/StefanoAR.umap",
+				"C:/Users/makem/Documents/GitHub/ARProject/Content/Stefano/StefanoCamera.uasset",
+				"C:/Users/makem/Documents/GitHub/ARProject/Content/Stefano/SteGameMode.uasset",
+				"C:/Users/makem/Documents/GitHub/ARProject/Content/Stefano/StefanoObject.uasset",
+				"C:/Users/makem/Documents/GitHub/ARProject/Content/Stefano/Plane.uasset",
+				"C:/Users/makem/Documents/GitHub/ARProject/Content/Stefano/CrossHair.uasset",
+				"C:/Users/makem/Documents/GitHub/ARProject/Content/Stefano/CrossHair_Mat.uasset"
+			]
+		}
+	]
+}
